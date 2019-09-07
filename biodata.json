@@ -1,0 +1,31 @@
+{
+    "name": "Ita Haryanti",
+    "age": 22,
+    "address": "Jl.Jangkar Suradadi No.37, RT 03/02, Kecamatan Suradadi, Kabupaten Tegal",
+    "hobbies": [
+        "coding",
+        "gaming"
+    ],
+    "is_married": false,
+    "list_school": [{
+        "elementary_school": "Universitas Bina Sarana Informatika Kampus Kota Tegal",
+        "year_in": 2016,
+        "year_out": 2019,
+        "major": "Sistem Informasi"
+    }, {
+        "elementary_school": "Madrasah Aliyah Negeri Kota Tegal",
+        "year_in": 2012,
+        "year_out": 2015,
+        "major": "IPA"
+    }, {
+        "elementary_school": "SMP Negeri 1 Warureja",
+        "year_in": 2009,
+        "year_out": 2012,
+        "major": null
+    }],
+    "skills": [{
+        "skill_name": "coding",
+        "level": "beginner"
+    }],
+    "interest_in_coding": true
+}
